@@ -1,0 +1,16 @@
+name: puppeteer-heroku-buildpack-fonts
+id: ari:cloud:compass:3e814f5d-9a82-4b58-8fe0-f1760fdfae64:component/96183b19-67cf-4acc-aca6-b2e7af568760/d7109f8f-5e2a-48cb-a836-13dec68aa957
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/SpaceboxHK/puppeteer-heroku-buildpack-fonts
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
